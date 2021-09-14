@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER roopamrc8gmail.com
+MAINTAINER roopamrulzgmail.com
 RUN apt install -y httpd \
   zip \
  unzip 
